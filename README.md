@@ -1,0 +1,3 @@
+# Desafios 2020 (Challenges 2020)
+
+"Desafios 2020" is a class that was offered by me in conjuntion to Professor Cristina G. Fernandes (IME-USP) with focus on competitive programming. I was responsible for teaching classic Data Strucutures and algorithms used in competitive programming and prepare 2 weekly contests of 5 problems each. Students had a week to solve the weekly contests and a week to upsolve the problems, after I explained the solution to them.
