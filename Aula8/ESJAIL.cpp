@@ -12,9 +12,9 @@ int mark[MAX];
 void dfs (int u) {
    mark[u] = 2;
    for (int k : key[u]) {
-      door[k].erase(u);
-      if (mark[k] == 1 && door[k].empty())
-         dfs(k);
+      door[k].erase(u); // door[k]-- 
+      if (mark[k] == 1 && door[k].empty()) // poderia ser door[k] == 0
+         dfs(k); // Q.push(k)
    }
 
    for (int v : adj[u]) {

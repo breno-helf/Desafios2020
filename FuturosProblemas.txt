@@ -1,60 +1,56 @@
 #TROUXAS
-
-- Dificuldade 0
-https://codeforces.com/gym/101375/problem/K 
-https://codeforces.com/problemset/problem/110/A
-
-- Dificuldade 1
-https://codeforces.com/problemset/problem/373/A
-
+  
 #STRINGS
-
-- Dificuldade 1
-https://codeforces.com/contest/659/problem/D
 
 #GULOSINHO
 
-- Dificuldade 3
-https://codeforces.com/gym/102215/problem/E
-https://codeforces.com/gym/101375/problem/E
+http://codeforces.com/problemset/problem/1200/C
 
 #AD-HOC
 
-- Dificuldade 1
-https://codeforces.com/gym/101375/problem/J
-https://codeforces.com/problemset/problem/381/A
-https://codeforces.com/contest/230/problem/A
-https://www.codechef.com/HCKATHON/problems/PAR (Ja dei esse problema, eh pra ser pegadinha rs)
-
-- Dificultade 2
-https://codeforces.com/contest/659/problem/D
-https://codeforces.com/problemset/problem/492/B
-
 - Dificuldade 3
-https://codeforces.com/contest/275/problem/C
-https://codeforces.com/problemset/problem/676/C
-https://codeforces.com/problemset/problem/676/C
+https://www.codechef.com/problems/RNT011
 
 #MATEMATICA
 
 - Dificuldade 2
-https://codeforces.com/problemset/problem/230/B
-https://codeforces.com/problemset/problem/1200/C
+  http://codeforces.com/problemset/problem/1200/C
 
 #GRAFOS
 
 - Dificuldade 3
-https://www.spoj.com/problems/PT07Z/
-https://codeforces.com/contest/1303/problem/C
 https://codeforces.com/problemset/problem/580/C
 
 
 - Dificuldade 4
 https://www.spoj.com/problems/QUEEN/
-https://codeforces.com/problemset/problem/731/C
 https://codeforces.com/problemset/problem/767/C
 
 #BACKTRACKING
 
 - Dificuldade 4
 https://open.kattis.com/problems/holeynqueensbatman
+
+#UF
+
+# LIS (LER)
+
+https://www.spoj.com/problems/BRIDGE/
+
+# DP
+
+https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1072
+https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1212
+https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=992
+https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=415
+https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1018
+https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=959
+https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1095
+
+Intervalos:
+https://www.spoj.com/problems/MIXTURES/
+
+LCS:
+
+Ultimo problema:
+https://codeforces.com/contest/682/problem/D

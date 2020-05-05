@@ -1,0 +1,36 @@
+# Ainda nao ensinado
+
+- Programacao Dinamica + LCS
+
+- Busca Ternaria + Exponenciacao Rapida
+
+- Ordenacao Topologica 
+- Dijkstra
+- MST
+- LCA
+- Tarjan e Pontes (Tour Euleriano)
+
+- Rolling Hashing e Trie
+- KMP e Aho Corasick 
+
+- Maximum Matching e Minimum Cover (Bip Graph)
+- Fluxo
+
+- BIT
+- Segment Tree
+- Heavy Light Decomposition
+
+- Geometria Basica + Convex Hull
+
+- 2 Sat
+
+- BackTracking
+- Line Sweep
+
+# Ja ensinado
+
+- Basico de Grafos
+- BFS & DFS
+- Two Pointer
+- Teoria dos Numeros Basica
+- Union Find

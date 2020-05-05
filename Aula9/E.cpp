@@ -35,32 +35,32 @@ int main() {
          ll c = t[j - 2], d = t[j - 1];
          resp += min(2 * a + c + d, a + 2 * b + d);
          if (2 * a + c + d < a + 2 * b + d) {
-            ans.pb(a);ans.pb(c);
-            ans.pb(a);
-            ans.pb(a);ans.pb(d);
-            ans.pb(a);
+            ans.push_back(a); ans.push_back(c);
+            ans.push_back(a);
+            ans.push_back(a); ans.push_back(d);
+            ans.push_back(a);
          } else {
-            ans.pb(a);ans.pb(b);
-            ans.pb(a);
-            ans.pb(c);ans.pb(d);
-            ans.pb(b);
+            ans.push_back(a); ans.push_back(b);
+            ans.push_back(a);
+            ans.push_back(c); ans.push_back(d);
+            ans.push_back(b);
          }
          j -= 2;
       }
       if (j == 1) {
          resp += t[0];
-         ans.pb(t[0]);
+         ans.push_back(t[0]);
       }
       else if (j == 2) {
          resp += t[1];
-         ans.pb(t[0]);
-         ans.pb(t[1]);
+         ans.push_back(t[0]);
+         ans.push_back(t[1]);
       }
       else if (j == 3) {
          resp += t[0] + t[1] + t[2];
-         ans.pb(t[0]); ans.pb(t[2]);
-         ans.pb(t[0]);
-         ans.pb(t[0]); ans.pb(t[1]);
+         ans.push_back(t[0]); ans.push_back(t[2]);
+         ans.push_back(t[0]);
+         ans.push_back(t[0]); ans.push_back(t[1]);
       }
       printf("%lld\n", resp);
       for (int i = 0; i < ans.size(); i += 3) {
