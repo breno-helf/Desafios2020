@@ -1,56 +1,51 @@
 #TROUXAS
-  
+
 #STRINGS
 
 #GULOSINHO
 
-http://codeforces.com/problemset/problem/1200/C
+https://codeforces.com/contest/1328/problem/F
+
+https://codeforces.com/gym/102500/problem/C
 
 #AD-HOC
 
-- Dificuldade 3
-https://www.codechef.com/problems/RNT011
+
+https://codeforces.com/gym/102307/problem/L
+
+https://codeforces.com/gym/102307/problem/F
 
 #MATEMATICA
 
-- Dificuldade 2
-  http://codeforces.com/problemset/problem/1200/C
+https://codeforces.com/problemset/problem/513/B2
+
+#GEOMETRIA
+
+http://poj.org/problem?id=1031
+
+https://codeforces.com/problemset/problem/498/A
+https://codeforces.com/problemset/problem/6/A
+
+https://codeforces.com/gym/102428/problem/D
 
 #GRAFOS
 
 - Dificuldade 3
-https://codeforces.com/problemset/problem/580/C
-
 
 - Dificuldade 4
 https://www.spoj.com/problems/QUEEN/
-https://codeforces.com/problemset/problem/767/C
 
 #BACKTRACKING
 
 - Dificuldade 4
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=257&page=show_problem&problem=660
 https://open.kattis.com/problems/holeynqueensbatman
 
 #UF
 
-# LIS (LER)
-
-https://www.spoj.com/problems/BRIDGE/
+https://open.kattis.com/problems/artwork
+https://open.kattis.com/problems/almostunionfind
 
 # DP
 
-https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1072
-https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1212
-https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=992
-https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=415
-https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1018
-https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=959
-https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1095
-
-Intervalos:
-https://www.spoj.com/problems/MIXTURES/
-
-LCS:
-
-Ultimo problema:
-https://codeforces.com/contest/682/problem/D
+https://open.kattis.com/problems/ingestion
