@@ -15,37 +15,15 @@ https://codeforces.com/gym/102307/problem/L
 
 https://codeforces.com/gym/102307/problem/F
 
-#MATEMATICA
-
-https://codeforces.com/problemset/problem/513/B2
-
 #GEOMETRIA
 
 http://poj.org/problem?id=1031
 
-https://codeforces.com/problemset/problem/498/A
-https://codeforces.com/problemset/problem/6/A
-
 https://codeforces.com/gym/102428/problem/D
 
-#GRAFOS
-
-- Dificuldade 3
-
-- Dificuldade 4
-https://www.spoj.com/problems/QUEEN/
 
 #BACKTRACKING
 
 - Dificuldade 4
 https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=257&page=show_problem&problem=660
-https://open.kattis.com/problems/holeynqueensbatman
 
-#UF
-
-https://open.kattis.com/problems/artwork
-https://open.kattis.com/problems/almostunionfind
-
-# DP
-
-https://open.kattis.com/problems/ingestion

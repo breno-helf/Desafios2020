@@ -1,3 +1,11 @@
+'''
+This script is for calculating the students grades in a single contest. 
+You can use it by configuring the dict with the username of each student
+then putting your login information in my.login (if your contest is private).
+It uses a webdriver (Which is not how it should be done. But I wanted to learn
+more about it). 
+'''
+
 import sys
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -6,7 +14,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from collections import OrderedDict
 
-students = OrderedDict({'ebrancher': 0, 'erickrs': 0, 'franciscowernke': 0, 'gabrielhpr': 0, 'gabrielp': 0, 'giatro': 0, 'guilhermes': 0, 'gustavo25': 0, 'igor_barberino': 0, 'lafifi': 0, 'lirineu': 0, 'lucianoleao': 0, 'luhketa': 0, 'mazetti_07': 0, 'mbsilva': 0, 'melloguel': 0, 'mscosta': 0, 'mullerjones': 0, 'otaviohiga': 0, 'rrvsrafael': 0, 'skeleton237': 0, 'thiagosteixeira': 0, 'tutss': 0, 'vinifrota': 0, 'wanniny': 0, 'willhiro': 0})
+students = OrderedDict({'franciscowernke': 0, 'gabrielhpr': 0, 'gabrielp': 0, 'guilhermes': 0, 'gustavo25': 0, 'igor_barberino': 0, 'lafifi': 0, 'lirineu': 0, 'lucianoleao': 0, 'mazetti_07': 0, 'mbsilva': 0, 'melloguel': 0, 'mscosta': 0, 'rrvsrafael': 0, 'rshimabukuro': 0, 'skeleton237': 0, 'thiagosteixeira': 0, 'tutss': 0, 'vinifrota': 0, 'wanniny': 0, 'willhiro': 0})
 
 def timeToInt(stringTime):
     splitted_times = stringTime.split(':')

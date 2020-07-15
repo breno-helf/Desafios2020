@@ -1,0 +1,24 @@
+Assuntos ensinados em Desafios I - 2020 primeiro semestre
+
+- Backtracking
+- Introdução a Grafos
+- BFS, DFS e Árvores
+- Dijkstra
+- Union Find
+- Segment Tree
+- Geometria simples (retas no plano)
+- Programação Dinamica (Introdução e técnicas)
+- Teoria dos números (Algoritmo de euclides e crivo de erastotenes)
+- Problemas clássicos (Pilha/Fila/Ordenanação e Inversion Count/Busca Binária/strings...)
+- Two Pointers e Soma Acumulada
+- Bittricks e Bitmasks (XOR, E, OU)
+- LIS
+- LCA
+
+Acho que foi isso. Coisas que a gente não viu mas poderia ter visto:
+
+- Basico de Teoria dos jogos
+- Algoritmos basicos de strings (KMP/Z)
+- Ordenação topologica
+- Prim/Kruskal
+- Ponte/Vx de corte
